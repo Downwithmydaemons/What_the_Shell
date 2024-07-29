@@ -1,5 +1,5 @@
 # Overview:
-- This is a CLI tool inspired by revshell.com which will allow for general payload creation on the fly.
+- This is a CLI tool inspired by [revshells.com](https://www.revshells.com/) which will allow for general payload creation on the fly.
 ## Usage
 ```bash
 chmod +x What_the_shell.py
