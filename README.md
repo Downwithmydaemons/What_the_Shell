@@ -7,4 +7,4 @@ chmod +x What_the_shell.py
 ./What_the_shell.py
 ```
 - Example output below
-![image](https://github.com/user-attachments/assets/cb969591-6529-45e9-9210-c4edb9ccc3e7)
+![image](https://github.com/user-attachments/assets/b49b1581-e6e5-4c14-ab07-8f19a4a353fa)
