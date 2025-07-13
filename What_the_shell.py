@@ -92,7 +92,7 @@ def main():
     rendered = render_payload(template, args.ip, args.port, args.shell)
     encoded = encode_payload(rendered, args.encode)
 
-    print(f"\n[+] Final Payload:\n{encoded}\n")
+    print(colored(f"\n[+] Final Payload:\n{encoded}\n", 'green'))
 
 if __name__ == "__main__":
     main()
