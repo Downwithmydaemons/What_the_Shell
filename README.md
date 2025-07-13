@@ -5,7 +5,7 @@
 chmod +x What_the_shell.py
 
 usage:
-./WhatTheShell.py [-h] --ip IP --port PORT --os {linux,windows,mac} [--payload PAYLOAD] [--shell SHELL] [--encode {none,url,base64}] [--list]
+./What_the_shell.py [-h] --ip IP --port PORT --os {linux,windows,mac} [--payload PAYLOAD] [--shell SHELL] [--encode {none,url,base64}] [--list]
 ```
 - Example outputs below
 
