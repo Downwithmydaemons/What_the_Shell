@@ -9,6 +9,8 @@ usage:
 ```
 - Example outputs below
 
-<img width="1177" height="172" alt="image" src="https://github.com/user-attachments/assets/6b95f234-b13c-4d6e-8f5f-68326fa6df51" />
-<img width="1895" height="407" alt="image" src="https://github.com/user-attachments/assets/078ed151-72e0-4007-a3b6-2473d9a0c4be" />
+<img width="1198" height="190" alt="image" src="https://github.com/user-attachments/assets/d2e5705e-4f23-40fb-a504-a987fcea82a8" />
+
+<img width="1897" height="410" alt="image" src="https://github.com/user-attachments/assets/3c77006d-9848-4629-bc7c-c1c450ebfee0" />
+
 
